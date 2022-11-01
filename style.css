@@ -126,7 +126,7 @@ html {
     position: absolute;
     width: 20rem;
     height: 20rem;
-    background: url(access/images/i28.jpg);
+    background: url(images/i28.jpg);
     z-index: 2;
     right: 2rem;
     top: 2rem;
@@ -144,7 +144,7 @@ html {
   .avata-nav {
     width: 7rem;
     height: 7rem;
-    background: url(access/images/i28.jpg);
+    background: url(images/i28.jpg);
     background-size: cover;
     border-radius: 0.5rem;
     margin: 2rem 0 0 2rem;
